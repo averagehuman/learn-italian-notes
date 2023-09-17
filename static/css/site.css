@@ -1,0 +1,27 @@
+
+body {
+    background-color: ghostwhite;
+    background-color: white;
+}
+
+.post-content em {
+    color: darkgrey;
+}
+
+a, a:visited {
+    color: #077049;
+    text-decoration-color: #077049;
+}
+h1, h2 {
+    color: firebrick;
+}
+th {
+    text-align: left;
+}
+.header-title a:hover {
+    border-bottom: solid 2px;
+}
+.post-content h2 {
+    border-bottom: solid 1px #232323;
+}
+

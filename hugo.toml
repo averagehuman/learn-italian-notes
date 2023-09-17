@@ -1,0 +1,13 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Italian Notes'
+theme = 'yinyang'
+
+[author]
+name = "gflanagan"
+
+[params]
+headTitle = "Learning Italian"
+description = "Personal Study Notes"
+mainSections = ["posts"]
+extraCSSFiles = ["css/site.css"]
