@@ -3,11 +3,12 @@ languageCode = 'en-us'
 title = 'Italian Notes'
 theme = 'yinyang'
 
-[author]
-name = "gflanagan"
+[taxonomies]
+tag = 'tags'
+category = 'categories'
 
 [params]
 headTitle = "Learning Italian"
-description = "Personal Study Notes"
+description = "An English Speaker's Personal Study Notes"
 mainSections = ["posts"]
 extraCSSFiles = ["css/site.css"]

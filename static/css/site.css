@@ -8,10 +8,22 @@ body {
     color: darkgrey;
 }
 
-a, a:visited {
+a, a:visited, a:hover {
     color: #077049;
     text-decoration-color: #077049;
+    text-decoration: none !important;
+    font-weight: bold;
 }
+a:hover {
+    font-weight: bold;
+}
+.markdown-body a:hover {
+    text-decoration: underline !important;
+}
+.post-tags:hover {
+    background-color: lightgrey;
+}
+
 h1, h2 {
     color: firebrick;
 }
