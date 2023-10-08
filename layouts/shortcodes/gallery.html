@@ -1,0 +1,13 @@
+<div class="gallery pswp-gallery pswp-gallery--single-column">
+  {{- range (.Page.Resources.Match (printf "%s/%s*" (.Get "folder") (.Get "prefix") ) ) }}
+  {{ $thumbnail := .Resize "320x" }}
+  <a class="gallery-item" href="{{ .Permalink }}"
+    data-pswp-width="{{ .Width }}"
+    data-pswp-height="{{ .Height }}"
+    target="_blank">
+      <img class="gallery-img" src="{{ $thumbnail.Permalink }}" alt="" />
+  </a>
+  <!-- <span class="show" style="float:right"><em>{{ .Name }}</em></span> -->
+  {{ end }}
+</div>
+<span class="show"><em>{{ .Name }}</em></span>

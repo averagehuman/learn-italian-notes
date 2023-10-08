@@ -1,0 +1,11 @@
+
+.gallery > * {
+    display: none;
+}
+.gallery :first-child {
+    display: block;
+}
+.gallery-item > img {
+    border: solid 4px rgb(24, 44, 24);
+}
+

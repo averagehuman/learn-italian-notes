@@ -37,3 +37,24 @@ th {
     border-bottom: solid 1px #232323;
 }
 
+.show {
+    cursor: pointer;
+}
+
+.show::before {
+    content: "\128712";
+    content: "\2753";
+    display: inline-block;
+}
+
+.show > em {
+    visibility: hidden;
+}
+
+.show:hover > em {
+    visibility: visible;
+}
+.show:hover::before {
+    content: "\2754";
+}
+
