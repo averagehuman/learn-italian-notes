@@ -3,8 +3,58 @@ title = 'Italian Beginners A002'
 date = 2023-09-24T12:12:46+01:00
 description = "Second lesson"
 categories = ["A0"]
-tags = ["First Steps", "Giada", "2023"]
+tags = ["Giada", "2023"]
 draft = true
+[[resources]]
+  src = "citta/firenze-duomo.webp"
+  alt = ""
+  width = 1600
+  height = 900
+  title = "Il Duomo (Cattedrale di Santa Maria del Fiore)"
+[[resources]]
+  src = "citta/firenze-ponte-vecchio.webp"
+  alt = ""
+  width = 1600
+  height = 900
+  title = "Ponte Vecchio"
+[[resources]]
+  src = "citta/pisa-torre-di-pisa.webp"
+  alt = ""
+  width = 1600
+  height = 900
+  title = "Torre di pisa"
+[[resources]]
+  src = "citta/pisa-piazza-dei-miracoli.webp"
+  alt = ""
+  width = 1600
+  height = 900
+  title = "Piazza dei Miracoli"
+[[resources]]
+  src = "citta/roma-colosseo.webp"
+  alt = ""
+  width = 1600
+  height = 900
+  title = "Colesseum"
+[[resources]]
+  src = "citta/roma-cistine-chapel.webp"
+  alt = ""
+  title = "Cistine Chapel"
+[[resources]]
+  src = "citta/roma-trevi-fountain.jpg"
+  alt = ""
+  width = 1600
+  height = 900
+  title = "Trevi Fountain"
+[[resources]]
+  src = "citta/torino-mole-antonelliana.webp"
+  alt = ""
+  title = "Mole Antonelliana"
+[[resources]]
+  src = "citta/torino-piazza-san-carlo.webp"
+  alt = ""
+  title = "Piazza San Carlo"
+
+
 +++
 
 
@@ -13,10 +63,19 @@ draft = true
 - Bentornati e Bentornate
 - Mi chiamo..., Io sono...
 - Pronti? *Are you (all) ready?*
-- Pronto! *Answering the phone. Eg. hello (en.), allo (fr.)*
-- Il pranzo è pronto *Lunch is ready*
 - Sei pronta (f. sing.)? Sei pronto (m. sing.)? *Are you (in particular) ready?*
+- Il pranzo è pronto *Lunch is ready*
+- Pronto! *Answering the phone*
 
+## Città
+
+{{< gallery folder="citta" prefix="roma" title="Roma" >}}
+
+{{< gallery folder="citta" prefix="firenze" title="Firenze (Florence)" >}}
+
+{{< gallery folder="citta" prefix="torino" title="Torino (Turin)" >}}
+
+{{< gallery folder="citta" prefix="pisa" title="Pisa" >}}
 
 ## Prononcia
 
@@ -28,7 +87,7 @@ draft = true
 - Orecchiette *Oray-key-yeti*
 - Ciabatta *Cha-batta*
 - Parmigiano Reggiano *Parmi-jah-no Ray-jah-no*
-- Michelangelo *Mee-kay-angelo*
+- Michelangelo *Mee-kale-angelo*
 - Arancia *Ah-ran-cha*
 - Aranciato *Ah-ran-cha-toe*
 - Stracchino *Stra-key-no*
@@ -49,7 +108,7 @@ draft = true
 
 ## GN *ɲ sound*
 
-- (palatal nasal like ñ in spanish niño)
+- (palatal nasal like ñ in spanish niño, or english canyon)
 - Lasagne *La-sa-ña*
 - Bagno *Bah-ñoh*
 - Agnello *Ah-ñeh-lo (lamb)*

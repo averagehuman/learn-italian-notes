@@ -3,12 +3,12 @@ title = 'Italian Beginners A003'
 description = "Third lesson"
 date = 2023-09-30T14:52:43+01:00
 categories = ["A0"]
-tags = ["First Steps", "Giada", "2023"]
+tags = ["Giada", "2023"]
 draft = true
 +++
 
 
-## Attività di riscaldamento
+## Bentornati
 
 - Oggi è Mercoledì, ventisette settembre duemilaventitré.
 - Domande, questioni, dubbi, problemi?
