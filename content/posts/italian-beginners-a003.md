@@ -1,7 +1,7 @@
 +++
 title = 'Italian Beginners A003'
 description = "Third lesson"
-date = 2023-09-30T14:52:43+01:00
+date = 2023-09-27T14:52:43+01:00
 categories = ["A0"]
 tags = ["Giada", "2023"]
 draft = true
@@ -70,7 +70,7 @@ draft = true
 ## Verbi (-are)
 
 - abito, abitare *I live*
-- arrivo, arrivate *I arrive*
+- arrivo, arrivare *I arrive*
 - ordino, ordinare *I order*
 - prenoto, prenotare *I book*
 
@@ -85,9 +85,9 @@ draft = true
 
 - *you visit a museum, you visit a web site*
 - *you don't visit people unless you are a doctor*
-- il medico visita solo il giovedì, *the doctor only sees patients on Thursdays*
 - andare a trovare *to meet with family or familiar people, to hang out*
 - vado a trovare mia fratelli domani *I'm going to visit my brothers tomorrow*
+- il medico visita solo il giovedì, *the doctor only sees patients on Thursdays*
 
 ## Frasi
 

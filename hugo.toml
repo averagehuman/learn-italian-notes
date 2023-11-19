@@ -9,6 +9,6 @@ category = 'categories'
 
 [params]
 headTitle = "Learning Italian"
-description = "An English Speaker's Personal Study Notes"
+description = "Transcribed Study Notes"
 mainSections = ["posts"]
 extraCSSFiles = ["css/site.css"]

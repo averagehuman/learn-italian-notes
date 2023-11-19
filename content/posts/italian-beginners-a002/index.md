@@ -1,6 +1,6 @@
 +++
 title = 'Italian Beginners A002'
-date = 2023-09-24T12:12:46+01:00
+date = 2023-09-20T12:12:46+01:00
 description = "Second lesson"
 categories = ["A0"]
 tags = ["Giada", "2023"]
@@ -61,6 +61,8 @@ draft = true
 ## Bentornati
 
 - Bentornati e Bentornate
+- Che giorno è oggi? *What day is today?*
+- Oggi è mercoledì venti settembre.
 - Mi chiamo..., Io sono...
 - Pronti? *Are you (all) ready?*
 - Sei pronta (f. sing.)? Sei pronto (m. sing.)? *Are you (in particular) ready?*

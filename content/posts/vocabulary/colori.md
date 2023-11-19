@@ -2,7 +2,7 @@
 title = 'Vocabulary: Colors'
 date = 2023-10-01T16:37:48+01:00
 categories = ["Vocabulario"]
-tags = ["First Steps", "2023"]
+tags = ["2023"]
 draft = true
 +++
 
@@ -68,7 +68,7 @@ Source: https://www.berlitz.com/blog/colors-italian-red
 </tr>
 <tr>
     <td style="color:white;background-color:#990F02"></td>
-    <td>Rosso Cilieglia</td>
+    <td>Rosso Ciliegia</td>
     <td class="show"><em>Cherry</em></td>
 </tr>
 <tr>
@@ -352,7 +352,7 @@ Source: https://www.berlitz.com/blog/colors-italian-red
 
 Source: https://ling-app.com/it/colors-in-italian/
 
-- un gatto nero *a black cat*
+- un gatto nero {{< hide >}}a black cat{{< /hide >}}
 - una maglia grigia *a grey sweater*
 - un vestito giallo *a yellow dress*
 - un cielo blu *a blue sky*
