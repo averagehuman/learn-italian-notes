@@ -337,12 +337,9 @@ Source: https://www.berlitz.com/blog/colors-italian-red
 </tr>
 <tr>
     <td style="color:white;background-color:#C54B8C"></td>
-    <td>Mora</td>
+    <td>Mora (di gelsa?)</td>
     <td class="show"><em>Mulberry</em></td>
 </tr>
-
-
-
 
 </table>
 {{< /rawhtml >}}
