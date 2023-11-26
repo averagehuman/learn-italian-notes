@@ -1,9 +1,9 @@
 +++
 title = 'Italian Beginners A007'
 date = 2023-10-25T09:34:32Z
-categories = ["A0"]
-tags = ["Giada", "2023"]
-draft = true
+draft = false
+categories = ["Lezioni"]
+tags = ["A0", "Giada", "2023"]
 [[resources]]
   src = "img/festa-all-saints-fra-angelico.jpg"
   alt = ""

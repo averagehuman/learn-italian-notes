@@ -1,5 +1,5 @@
 +++
-title = 'Vocabulary: Colors'
+title = 'Colori'
 date = 2023-10-01T16:37:48+01:00
 categories = ["Vocabulario"]
 tags = ["2023"]
@@ -27,7 +27,7 @@ draft = true
 - bianco *white*
 - viola *purple*
 - marrone *brown*
-- azzurro *light blue*
+- azzurro *azure, light blue*
 - blu scuro *dark blue*
 - rosa *pink*
 - grigio *grey*
@@ -347,18 +347,14 @@ Source: https://www.berlitz.com/blog/colors-italian-red
 
 ## Frasi
 
-Source: https://ling-app.com/it/colors-in-italian/
-
-- un gatto nero {{< hide >}}a black cat{{< /hide >}}
-- una maglia grigia *a grey sweater*
-- un vestito giallo *a yellow dress*
-- un cielo blu *a blue sky*
-- una cassa rossa *a red house*
-- un orso bruno *a brown bear*
-- una macchina rosso brillante *a bright red car*
-- occhi marroni *brown eyes*
-- il prate è verde *the lawn is green*
-- Qual’è il tuo colore preferito? *what is your favorite colour*
-- Il mio colore prefirito è blu
-- Mi piace il blue
-- Ti piace il color bianco?
+| | |
+|------------|-----------|
+| &bull; Un gatto nero | {{< hide >}}a black cat{{< /hide >}} |
+| &bull; Una maglia grigia | {{< hide >}}a grey sweater{{< /hide >}} |
+| &bull; Un cielo blu | {{< hide >}}a blue sky{{< /hide >}} |
+| &bull; Una cassa rossa | {{< hide >}}a red house{{< /hide >}} |
+| &bull; Un orso bruno | {{< hide >}}a brown bear{{< /hide >}} |
+| &bull; Occhi marroni | {{< hide >}}brown eyes{{< /hide >}} |
+| &bull; Qual’è il tuo colore preferito? | {{< hide >}}What is your favourite colour?{{< /hide >}} |
+| &bull; Il mio colore preferito è blu | {{< hide >}}My favourite colour is blue.{{< /hide >}} |
+| &bull; Ti piace il color bianco? | {{< hide >}}Do you like the colour white?{{< /hide >}} |

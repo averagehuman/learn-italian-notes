@@ -2,9 +2,9 @@
 title = 'Italian Beginners A002'
 date = 2023-09-20T12:12:46+01:00
 description = "Second lesson"
-categories = ["A0"]
-tags = ["Giada", "2023"]
-draft = true
+categories = ["Lezioni"]
+tags = ["A0", "Giada", "2023"]
+draft = false
 [[resources]]
   src = "citta/firenze-duomo.webp"
   alt = ""

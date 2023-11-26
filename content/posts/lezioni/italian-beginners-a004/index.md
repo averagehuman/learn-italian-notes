@@ -1,9 +1,9 @@
 +++
 title = 'Italian Beginners A004'
 date = 2023-10-04T16:32:24+01:00
-categories = ["A0"]
-tags = ["Giada", "2023"]
-draft = true
+draft = false
+categories = ["Lezioni"]
+tags = ["A0", "Giada", "2023"]
 [[resources]]
   src = "citta/firenze-piazza-liberta.jpg"
   alt = ""

@@ -2,9 +2,9 @@
 title = 'Italian Beginners A003'
 description = "Third lesson"
 date = 2023-09-27T14:52:43+01:00
-categories = ["A0"]
-tags = ["Giada", "2023"]
-draft = true
+categories = ["Lezioni"]
+tags = ["A0", "Giada", "2023"]
+draft = false
 +++
 
 
