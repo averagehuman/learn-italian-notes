@@ -1,6 +1,6 @@
 +++
 title = 'Cento Giorni'
-date = 2023-11-03T17:50:09Z
+date = 2023-12-15T17:50:09Z
 draft = false
 categories = ["Canzoni"]
 tags = ["2023", "Caterina Caselli", "Paradiso"]

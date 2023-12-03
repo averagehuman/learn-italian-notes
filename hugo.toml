@@ -2,6 +2,7 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Italian Notes'
 theme = 'yinyang'
+paginate = 20
 
 [taxonomies]
 tag = 'tags'
@@ -9,6 +10,6 @@ category = 'categories'
 
 [params]
 headTitle = "Learning Italian"
-description = "Transcribed Study Notes"
+description = "A beginner's study notes"
 mainSections = ["posts"]
 extraCSSFiles = ["css/site.css"]

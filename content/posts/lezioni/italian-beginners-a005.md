@@ -20,12 +20,11 @@ tags = ["A0", "Giada", "2023"]
 
 ## Giorni della settimana
 
-- *macrons for stress, these aren't accents*
-- lūnedì *first day of the week in Italy*
-- mārtedì
-- mērcoledì
-- giōvedì
-- vēnerdì
+- lunedì *first day of the week in Italy*
+- martedì
+- mercoledì
+- giovedì
+- venerdì
 - sābato
 - domēnica (f.)
 - *not capitalised (unless at the start of a sentence)*

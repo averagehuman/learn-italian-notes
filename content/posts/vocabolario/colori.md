@@ -1,6 +1,6 @@
 +++
 title = 'Colori'
-date = 2023-10-01T16:37:48+01:00
+date = 2023-09-29T16:37:48+01:00
 categories = ["Vocabulario"]
 tags = ["2023"]
 draft = true
