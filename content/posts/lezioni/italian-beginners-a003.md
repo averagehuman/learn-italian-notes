@@ -31,15 +31,15 @@ draft = false
 
 ## Numeri 11-20
 
-- Undici
-- Dodici
-- Tredici
-- Quattordici
-- Quindici
-- Sedici
-- Diciasette
-- Diciotto
-- Diciannove
+- Ūndici
+- Dōdici
+- Trēdici
+- Quattōrdici
+- Quīndici
+- Sēdici
+- Diciasētte
+- Diciōtto
+- Diciannōve *deech-ah-noh-vay*
 - Venti
 
 ## Verbi (-are)

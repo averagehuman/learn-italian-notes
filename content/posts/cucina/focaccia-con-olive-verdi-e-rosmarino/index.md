@@ -15,15 +15,19 @@ tags = ["2023", "Pane"]
 [[resources]]
   src = "img/foccaccia-03-flour-and-yeast.jpg"
   alt = ""
-  title = "Dry Ingredients"
+  title = "Flour, semolina and yeast"
 [[resources]]
   src = "img/foccaccia-04-mix-flour-and-poolish.jpg"
   alt = ""
-  title = "Mix by hand"
+  title = "Combine ingredients"
+[[resources]]
+  src = "img/foccaccia-05-autolyse.jpg"
+  alt = ""
+  title = "Mix and leave for 30mins"
 [[resources]]
   src = "img/foccaccia-06-first-fold.jpg"
   alt = ""
-  title = "30mins autolyse, then add salt and oil, then fold"
+  title = "Add salt and oil, then fold"
 [[resources]]
   src = "img/foccaccia-07-second-fold.jpg"
   alt = ""
@@ -95,7 +99,7 @@ over the dough as evenly as possible.
 
 ## Bake
 
-*These are only guidelines based on a non-fan oven.*
+*Guidelines based on a non-fan oven. Might need to adapt for a fan oven.*
 
 Bake at 250°C for 10 mins.
 

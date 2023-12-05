@@ -34,7 +34,6 @@ tags = ["A0", "Giada", "2023"]
 
 | | |
 |------------|-----------|
-| &bull; *Unknown in Italy until recently.* | |
 | &bull; Dolcetto o Scherzetto | {{< hide >}}trick or treat{{< /hide >}} |
 | &bull; Zucca | {{< hide >}}pumpkin{{< /hide >}} |
 | &bull; Zucca intagliata | {{< hide >}}carved pumpkin{{< /hide >}} |

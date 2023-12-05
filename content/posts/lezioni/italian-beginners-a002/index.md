@@ -110,7 +110,7 @@ draft = false
 
 ## GN *ɲ sound*
 
-- (palatal nasal like ñ in spanish niño, or english canyon)
+- *palatal nasal like canyon or onion or ñ in spanish niño*
 - Lasagne *La-sa-ña*
 - Bagno *Bah-ñoh*
 - Agnello *Ah-ñeh-lo (lamb)*
@@ -129,14 +129,14 @@ draft = false
 - Cena *Chay-na*
 - Macedonia *Mah-chay-donia*
 
-## GH *hard g sound*
-
-- Ghetto *geh-toe*
-- Ghepardo *geh-par-doe*
-- Gherardo *ger-ar-doe*
-
 ## G *j sound*
 
 - Gelato *jeh-la-toe*
 - Genova *jeh-no-vah*
 - Gerardo *jer-ar-doe*
+
+## GH *hard g sound*
+
+- Ghetto *geh-toe*
+- Ghepardo *geh-par-doe*
+- Gherardo *ger-ar-doe*

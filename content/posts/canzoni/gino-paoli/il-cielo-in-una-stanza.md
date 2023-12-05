@@ -24,7 +24,7 @@ tags = ["2023", "Gino Paoli", "Paradiso"]
 | questa stanza non ha più pareti | {{< hide >}}This room no longer has walls{{< /hide >}} |
 | ma alberi, | {{< hide >}}But trees{{< /hide >}} |
 | alberi infiniti… | {{< hide >}}Infinite trees...{{< /hide >}} |
-| -------------------------------------- |
+| -------------------------------------- | |
 | Quando sei qui vicino a me, | {{< hide >}}When you are close to me{{< /hide >}} |
 | questo soffitto viola | {{< hide >}}This purple ceiling{{< /hide >}} |
 | no, non esiste più: | {{< hide >}}No, it no longer exists{{< /hide >}} |
@@ -46,7 +46,3 @@ tags = ["2023", "Gino Paoli", "Paradiso"]
 | nel cielo… | |
 
 Info: https://theitaliansong.com/songs/il-cielo-in-una-stanza/
-
-***
-
-{{< youtube id="iV3c8z6iVFQ" title="Il cielo in una stanza - Lupe y sus Amores" allowfullscreen="true" >}}

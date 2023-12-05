@@ -38,7 +38,8 @@ draft = false
 - Buonanotte *bedtime*
 - Ciao *informal*
 - Arrivederci *eg. leaving a shop*
-- Salve *[usage](https://dailyitalianwords.com/salve-in-italian-what-does-it-mean/)*
+- Salve *informal but more formal than ciao (latin salvēre, to be in good health)*
+- Salve gente/ragazzi *hello folks/guys*
 
 ## Vocabolario
 

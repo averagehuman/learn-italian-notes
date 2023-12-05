@@ -111,3 +111,29 @@ tags = ["A0", "Giada", "2023"]
 
 - il principe, la principessa *prince, princess*
 - l'abate, l'abatessa *abbot, abbess*
+
+## Sidebar
+
+> SEX IN ANCIENT ROME
+>
+> The three Latin sexes or, better, genders are masculine, feminine and neuter.
+> We have the same ones - he, she and it.
+> The difference is that practically all our nouns are neuter.
+> We call a cucumber "it" and you call a soul "it", where the Romans considered
+> cucumbers (*cucumis, -eris*) masculine and souls (*anima, -ae*) feminine.
+>
+> The Latin approach to these things is not as annoying as it might at first seem.
+> It soon becomes second nature that words ending in *-us* (like *dominus* and *Augustus*)
+> are masculine; *-a* words (like *mensa, Diana* and *Camilla*) are feminine; and *-um* words
+> (like *bellum, pilum, castrum*) are neuter, with a minority that don't have this nice
+> and easy pattern to them.
+>
+> The other thing that becomes second nature is that adjectives should agree with nouns,
+> ie. masculine nouns take masculine adjectives, feminine nouns, feminine adjectives etc.
+> Plural nouns also take plural adjectives. This can provide comfortable room for
+> showing off in English; e.g. the plural of *persona non grata* - an unwelcome person -
+> is *personae non gratae*.
+>
+> ...
+>
+> from **"Amo, Amas, Amat...and all that", Harry Mount, 2006, Short Books**
