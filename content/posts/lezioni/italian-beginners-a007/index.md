@@ -111,3 +111,16 @@ tags = ["A0", "Giada", "2023"]
 - felice, felici
 - difficile, difficili
 - intelligente, intelligenti
+
+## Completa le frasi
+
+1. La pizza è un famos**o**  piatt**o** italian**o**
+2. Il flamenco è un tradizionale ball**o** spagnol**o**
+3. Mykonos è una bell**a** isol**a** grec**a**
+4. Il sushi è una delizios**a** specialità giappones**e**
+5. La Grande Muraglia è un imponente monumento cin**ese**
+6. Il Nobel è un prestigios**o** premio sved**ese**
+7. Il canguro è un tipic**o** animale australian**o**
+8. Il Porto è un aromatic**o** vino portoghes**e**
+9. Il Rio delle Amazzoni è un lung**o** fiume sudamerican**o**
+10. La Tour Eiffel è una famos**a** torre frances**e**
