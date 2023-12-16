@@ -6,7 +6,7 @@ categories = ["Canzoni"]
 tags = ["2023", "Mina", "Paradiso"]
 +++
 
-{{< youtube id="36WhwQ3wnfE" title="Nessuno - Mina cover by Luca Ghioldi feat. Sofia Asero" allowfullscreen="true" >}}
+{{< youtube id="4nHEqcRjVm8" title="Nessuno - Mina cover by Luca Ghioldi feat. Sofia Asero" allowfullscreen="true" >}}
 
 ***
 
@@ -24,9 +24,9 @@ tags = ["2023", "Mina", "Paradiso"]
 - nessuno può darmi *third person - noone can give to me*
 - può darmi...? *polite second person - can you give me...?*
 - può darmi un'informazione? *can you give me some information?*
-- ci può separare *third person reflexive - can separate us*
-- ci dà *third persion reflexive - gives to us, is given to us*
-- vivrà *third person future - will live*
+- ci può separare *third person 'può', direct object pronoun 'ci (us)' - can separate us*
+- ci dà *third person 'dà', direct object pronoun 'ci (us)' - gives to us, is given to us*
+- vivrà *third person future - he/she/it will live*
 
 ## Lyrics
 
@@ -52,10 +52,10 @@ tags = ["2023", "Mina", "Paradiso"]
 | perché questo amore s’illuminerà | {{< hide >}}because this love will light up{{< /hide >}} |
 | d’eternità! | {{< hide >}}eternally/ in eternity{{< /hide >}} |
 | -------------------------------------- | |
-| Sei tu, dolcissimo amore, | {{< hide >}}It's you, my sweetest love{{< /hide >}} |
-| soltanto tu, passato e avvenire, | {{< hide >}}only you, the past and the present,{{< /hide >}} |
-| tutto il mio mondo comincia da te, | {{< hide >}}my entire world begins with you{{< /hide >}} |
-| finisce con te! | {{< hide >}}and ends with you.{{< /hide >}} |
+| Sei tu, dolcissimo amore, | |
+| soltanto tu, passato e avvenire, | |
+| tutto il mio mondo comincia da te, | |
+| finisce con te! | |
 | -------------------------------------- | |
 | Nessuno, ti giuro nessuno, | |
 | nemmeno il destino ci può separare | |

@@ -1,6 +1,6 @@
 baseURL = 'https://cominciaredallinizio.com'
 languageCode = 'en-gb'
-title = 'Italian Notes'
+title = 'Learning Italian'
 theme = 'yinyang'
 paginate = 20
 
