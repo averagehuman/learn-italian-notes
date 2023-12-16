@@ -1,5 +1,5 @@
 +++
-title = 'Il Cielo in Una Stanza'
+title = 'Gino Paoli - Il Cielo in Una Stanza'
 date = 2023-10-15T14:41:40Z
 draft = false
 categories = ["Canzoni"]

@@ -1,5 +1,5 @@
 +++
-title = 'Puccini Un Bel Di Vedremo Mirella Freni'
+title = 'Puccini - Un Bel Dì Vedremo, Mirella Freni'
 date = 2023-11-24T19:19:40Z
 draft = false
 categories = ["Opera"]

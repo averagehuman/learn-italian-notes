@@ -1,5 +1,5 @@
 +++
-title = 'Nessuno'
+title = 'Mina - Nessuno'
 date = 2023-10-28T20:28:50Z
 draft = false
 categories = ["Canzoni"]
