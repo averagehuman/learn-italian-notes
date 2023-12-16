@@ -84,6 +84,8 @@ tags = ["A0", "Giada", "2023"]
 | Giappone | Giapponese | Giapponesi |
 | Cina | Cinese | Cinesi |
 
+- un Francese, una Francese, i Francesi
+- un uomo Cinese, una donna Cinese
 
 ## Changes in gender and number (-o, -a / -i, -e)
 
@@ -95,6 +97,8 @@ tags = ["A0", "Giada", "2023"]
 | Slovacchia | Slovacco/a | Slovacchi/e |
 | Polonia | Polacco/a | Polacchi/e |
 | Germania | Tedesco/a | Tedeschi/e |
+
+- un italiano (m.), una italiana (f.), i italiani (m. pl), le italiane (f. pl)
 
 ## Changes in number, changes in gender in the plural only (... / -i, -e)
 

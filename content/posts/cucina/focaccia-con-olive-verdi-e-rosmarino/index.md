@@ -1,6 +1,6 @@
 +++
 title = 'Focaccia Con Olive e Rosmarino'
-date = 2023-10-27T13:06:47Z
+date = 2023-09-23T13:06:47Z
 draft = false
 categories = ["Cucina"]
 tags = ["2023", "Pane"]
@@ -55,7 +55,7 @@ tags = ["2023", "Pane"]
 - a pinch of dried yeast (a scant 1/4 teaspoon)
 - a pinch of sugar (optionally)
 
-The evening before baking, mix together the above ingredients, cover and leave but don't refrigerate.
+The evening before baking, mix together the above ingredients well, cover and leave but don't refrigerate.
 
 A pre-ferment will help with the dough's "extensibility", ie. gluten formation. It will also improve both final
 taste and shelf life. This is a **poolish** because it has equal quantities of flour and water and so is
@@ -64,9 +64,9 @@ relatively liquid. A **biga** is a pre-ferment that uses less water.
 ## Mix (autolyse)
 
 - the poolish
-- 1 cup of semolina flour
-- 2 cups of strong bread flour
-- 1 teaspoon of dried yeast
+- 1 cup of semolina flour (120g/4.2oz)
+- 2 cups of strong bread flour (240g/8.4oz)
+- 1 level teaspoon of dried yeast
 - 1.5 cups of water (approx.)
 
 Mix everything together roughly with a fork or spoon. Use enough water to bring it together. Leave for half an hour.

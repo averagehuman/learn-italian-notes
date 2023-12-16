@@ -9,9 +9,9 @@ tags = ["A0", "Giada", "2023"]
 ## Bentornati
 
 - Oggi è Mercoledì, otto novembre duemilaventitré.
-- lūnedì, mārtedì, mērcoledì, giōvedì, vēnerdì, sābato, domēnica (f.)
-- Ieri era martedì
-- Domani è giovedì
+- lunedì, martedì, mercoledì, giovedì, venerdì, sābato, domēnica (f.)
+- Ieri era martedì *yesterday was Tuesday*
+- Domani è giovedì *tomorow is Thursday*
 - Qual è il tuo giorno preferito?
 - Il mio giorno preferito è venerdì.
 
@@ -74,7 +74,7 @@ tags = ["A0", "Giada", "2023"]
 
 ## Maschile o femminile (-e)
 
-- *difficult to guess in general, just need to learn the gender with the word*
+- *nouns ending in -e, difficult to guess in general, just need to learn the gender with the word*
 - il padre *(m.)*
 - il sale *(m.)*
 - l'amore *(m.)*
@@ -119,7 +119,7 @@ tags = ["A0", "Giada", "2023"]
 > The three Latin sexes or, better, genders are masculine, feminine and neuter.
 > We have the same ones - he, she and it.
 > The difference is that practically all our nouns are neuter.
-> We call a cucumber "it" and you call a soul "it", where the Romans considered
+> We call a cucumber "it" and we call a soul "it", where the Romans considered
 > cucumbers (*cucumis, -eris*) masculine and souls (*anima, -ae*) feminine.
 >
 > The Latin approach to these things is not as annoying as it might at first seem.

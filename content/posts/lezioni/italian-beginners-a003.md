@@ -69,7 +69,7 @@ draft = false
 
 ## Verbi (-are)
 
-- abito, abitare *I live*
+- ābito, abitare *I live*
 - arrivo, arrivare *I arrive*
 - ordino, ordinare *I order*
 - prenoto, prenotare *I book*
@@ -98,5 +98,7 @@ draft = false
 - Il conto, per favore? *The bill, please*
 - Pronti per ordinare? *Are you ready to order?*
 - Dove abiti? *Where do you live?*
-- Abito a... *I live in...*
+- Abito a... *I live in...[a city or town]*
+- Abito in... *I live in...[a country, region or a particular address]*
+- Abito a Lisnaskea; Abito in Irlanda del nord
 - Tutti i giorni *Every day*

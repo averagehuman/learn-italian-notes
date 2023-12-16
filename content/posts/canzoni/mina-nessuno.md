@@ -1,6 +1,6 @@
 +++
 title = 'Nessuno'
-date = 2023-10-29T20:28:50Z
+date = 2023-10-28T20:28:50Z
 draft = false
 categories = ["Canzoni"]
 tags = ["2023", "Mina", "Paradiso"]
@@ -19,11 +19,18 @@ tags = ["2023", "Mina", "Paradiso"]
 - voi potete
 - loro possono
 
-## Notes
+## Vocabolario
 
+- nemmeno *not even, neither*
+- il destīno *fate, destiny*
+- giurare *to swear, take an oath*
+- soltanto *only*
+- il passato *the past*
+- avvenire; l'avvenire (m.) *verb: to occur, happen; noun: the future*
+- (il presente *the present*)
 - nessuno può darmi *third person - noone can give to me*
-- può darmi...? *polite second person - can you give me...?*
-- può darmi un'informazione? *can you give me some information?*
+- (può darmi...? *polite second person - can you give me...?*)
+- (può darmi un'informazione? *can you give me some information?*)
 - ci può separare *third person 'può', direct object pronoun 'ci (us)' - can separate us*
 - ci dà *third person 'dà', direct object pronoun 'ci (us)' - gives to us, is given to us*
 - vivrà *third person future - he/she/it will live*
@@ -43,7 +50,7 @@ tags = ["2023", "Mina", "Paradiso"]
 | solo con te… | {{< hide >}}only with you{{< /hide >}} |
 | -------------------------------------- | |
 | Sei tu, dolcissimo amore, | {{< hide >}}It's you, my sweetest love{{< /hide >}} |
-| soltanto tu, passato e avvenire, | {{< hide >}}only you, the past and the present,{{< /hide >}} |
+| soltanto tu, passato e avvenire, | {{< hide >}}only you, the past and the future,{{< /hide >}} |
 | tutto il mio mondo comincia da te, | {{< hide >}}my entire world begins with you{{< /hide >}} |
 | finisce con te! | {{< hide >}}and ends with you{{< /hide >}} |
 | -------------------------------------- | |
