@@ -7,7 +7,7 @@ tags = ["2023", "Pane"]
 [[resources]]
   src = "img/foccaccia-00-serve.jpg"
   alt = ""
-  title = "Muto,Muti,Muta,Mutiamo,Mutate,Mutano"
+  title = "Serving"
 [[resources]]
   src = "img/foccaccia-02-poolish-6am.jpg"
   alt = ""
