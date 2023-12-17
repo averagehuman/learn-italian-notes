@@ -1,7 +1,7 @@
 +++
 title = 'Colori'
 date = 2023-09-29T16:37:48+01:00
-categories = ["Vocabulario"]
+categories = ["Vocabolario"]
 tags = ["2023"]
 draft = false
 +++

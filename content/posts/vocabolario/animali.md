@@ -1,7 +1,7 @@
 +++
 title = 'Animali'
 date = 2023-10-13T14:41:40Z
-categories = ["Vocabulario"]
+categories = ["Vocabolario"]
 tags = ["2023"]
 draft = false
 +++
