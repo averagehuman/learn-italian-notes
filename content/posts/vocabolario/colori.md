@@ -36,8 +36,6 @@ draft = false
 
 ## Altri Colori
 
-Source: https://www.berlitz.com/blog/colors-italian-red
-
 {{< rawhtml >}}
 <table style="width:440px">
 <tr>
@@ -344,6 +342,7 @@ Source: https://www.berlitz.com/blog/colors-italian-red
 </table>
 {{< /rawhtml >}}
 
+Source: https://www.berlitz.com/blog/colors-italian-red
 
 ## Frasi
 
