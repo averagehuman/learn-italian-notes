@@ -78,7 +78,7 @@ tags = ["A0", "Giada", "2023"]
 
 ## I Tipi di Caffè
 
-- un caffè *an espresso*
+- un caffè *an espresso, fr. un p'tit noir*
 - un caffè espresso, un caffè normale *an espresso*
 - un caffè doppio *double shot of espresso*
 - un caffè ristretto *a concentrated extra strong espresso*
@@ -91,3 +91,12 @@ tags = ["A0", "Giada", "2023"]
 - un caffè coretto *with added alcohol - grappa, brandy, liqueur etc.*
 - un caffè d'orzo *not coffee - caffeine-free alternative made with barley*
 - preferisci il caffè con o senza zucchero?
+
+## Al Bar *(café or coffee shop)*
+
+- Vorrei un caffè *polite*
+- Un caffè! *more usual*
+- Per me, un caffè.
+- Prendo un caffè, per favore.
+- Salve, posso avere un caffè, per favore. *formal, polite*
+- Un macchiato, grazie.

@@ -42,7 +42,7 @@ draft = false
 - Diciannōve *deech-ah-noh-vay*
 - Venti
 
-## Verbi (-are)
+## Verbi (-are) *First conjugation*
 
 - canto, cantare *I sing*
 - mangio, mangiare *I eat*
