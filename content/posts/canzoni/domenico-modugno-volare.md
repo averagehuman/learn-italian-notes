@@ -4,7 +4,7 @@ title = 'Domenico Modugno - Volare'
 date = 2024-12-12T20:28:50Z
 draft = false
 categories = ["Canzoni"]
-tags = ["2023", "Domenico Modugno", "Paradiso"]
+tags = ["2023", "Domenico Modugno"]
 +++
 
 {{< youtube id="6jWsIpAbo-8" title="Volare (Nel Blu Dipinto Di Blu)" allowfullscreen="true" >}}

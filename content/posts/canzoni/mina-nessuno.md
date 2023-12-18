@@ -3,7 +3,7 @@ title = 'Mina - Nessuno'
 date = 2023-12-11T20:28:50Z
 draft = false
 categories = ["Canzoni"]
-tags = ["2023", "Mina", "Paradiso"]
+tags = ["2023", "Mina"]
 +++
 
 {{< youtube id="4nHEqcRjVm8" title="Nessuno - Mina cover by Luca Ghioldi feat. Sofia Asero" allowfullscreen="true" >}}

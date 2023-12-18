@@ -3,7 +3,7 @@ title = 'Gino Paoli - Il Cielo in Una Stanza'
 date = 2023-12-09T14:41:40Z
 draft = false
 categories = ["Canzoni"]
-tags = ["2023", "Gino Paoli", "Paradiso"]
+tags = ["2023", "Gino Paoli"]
 +++
 
 {{< youtube id="gekIJxqkLGM" title="Il cielo in una stanza - Gino Paoli" allowfullscreen="true" >}}

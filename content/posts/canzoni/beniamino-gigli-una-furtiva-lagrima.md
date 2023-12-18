@@ -3,7 +3,7 @@ title = 'Una Furtiva Lagrima'
 date = 2025-10-15T14:41:40Z
 draft = false
 categories = ["Canzoni"]
-tags = ["2023", "Beniamino Gigli", "Paradiso"]
+tags = ["2023", "Beniamino Gigli"]
 +++
 
 {{< youtube id="47dCNbZWWlo" title="Una furtiva lagrima 1927 - Beniamino Gigli" allowfullscreen="true" >}}
