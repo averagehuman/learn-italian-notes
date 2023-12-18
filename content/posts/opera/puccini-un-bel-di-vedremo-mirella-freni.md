@@ -3,7 +3,7 @@ title = 'Puccini - Un Bel Dì Vedremo, Mirella Freni'
 date = 2023-12-14T19:19:40Z
 draft = false
 categories = ["Opera"]
-tags = ["2023", "Puccini", "Mirella Freni", "Inferno"]
+tags = ["2023", "Puccini", "Mirella Freni"]
 +++
 
 ## "Chiamerà Butterfly dalla lontana..."
