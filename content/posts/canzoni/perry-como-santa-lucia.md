@@ -1,6 +1,6 @@
 +++
 title = 'Perry Como, Caterina Valente - Santa Lucia'
-date = 2023-10-01T16:37:48+01:00
+date = 2023-12-08T16:37:48+01:00
 draft = false
 categories = ["Canzoni"]
 tags = ["2023", "Perry Como", "Caterina Valente", "Paradiso"]

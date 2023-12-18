@@ -1,6 +1,6 @@
 +++
 title = 'Una Furtiva Lagrima'
-date = 2024-10-15T14:41:40Z
+date = 2025-10-15T14:41:40Z
 draft = false
 categories = ["Canzoni"]
 tags = ["2023", "Beniamino Gigli", "Paradiso"]

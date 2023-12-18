@@ -1,13 +1,12 @@
 +++
 title = 'Puccini - Un Bel Dì Vedremo, Mirella Freni'
-date = 2023-12-08T19:19:40Z
+date = 2023-12-14T19:19:40Z
 draft = false
 categories = ["Opera"]
 tags = ["2023", "Puccini", "Mirella Freni", "Inferno"]
 +++
 
-## "Piccina mogliettina, olezzo di verbena..."
-
+## "Chiamerà Butterfly dalla lontana..."
 
 {{< youtube id="uo8goMo5dN0" title="Un bel di vedremo, Madame Butterfly (Puccini) - Mirella Freni, Herbert von Karajan, 1974" allowfullscreen="true" >}}
 
@@ -18,6 +17,7 @@ tags = ["2023", "Puccini", "Mirella Freni", "Inferno"]
 | &bull; Il dì | {{< hide >}}(literary) day{{< /hide >}} |
 | &bull; L'estremo | {{< hide >}}extreme, limit, last/final{{< /hide >}} |
 | &bull; Il confine | {{< hide >}}border (territory, nation), edge, frontier{{< /hide >}} |
+| &bull; L'estremo confin del mare | {{< hide >}}the furthest edge of the sea{{< /hide >}} |
 | &bull; La folla | {{< hide >}}crowd{{< /hide >}} |
 | &bull; La risposta | {{< hide >}}reply{{< /hide >}} |
 | &bull; La celia | {{< hide >}}joke, jest{{< /hide >}} |

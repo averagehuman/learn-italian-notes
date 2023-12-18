@@ -1,6 +1,6 @@
 +++
 title = 'Gino Paoli - Il Cielo in Una Stanza'
-date = 2023-10-15T14:41:40Z
+date = 2023-12-09T14:41:40Z
 draft = false
 categories = ["Canzoni"]
 tags = ["2023", "Gino Paoli", "Paradiso"]
@@ -13,7 +13,6 @@ tags = ["2023", "Gino Paoli", "Paradiso"]
 ## Vocabolario
 
 - fosse *from irregular essere (3rd person imperfect subjunctive)*
-- (*not plural of fossa - ditch, pit, hole*)
 - se fosse vero *if it were true*
 - se fosse possibile *if it were possible*
 - suona (suonare) *here intransitive 'an instrument plays/sounds', not transitive 'he/she plays an instrument'*

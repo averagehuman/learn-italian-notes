@@ -7,7 +7,6 @@
     <div class="row">
       <div class="col-xs-12">
         {{ partial "header.html" . }}
-          <h2 class="under-construction">Under Construction</h2>
         <div id="posts-list">
           {{ $paginator := (.Paginate ((where site.RegularPages "Type" "in" site.Params.mainSections).GroupByDate "2006" "asc")).PageGroups -}}
             {{ range $paginator }}

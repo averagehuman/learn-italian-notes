@@ -1,6 +1,6 @@
 +++
-title = 'Cento Giorni'
-date = 2024-10-29T17:50:09Z
+title = 'Caterina Caselli - Cento Giorni'
+date = 2023-12-10T17:50:09Z
 draft = false
 categories = ["Canzoni"]
 tags = ["2023", "Caterina Caselli", "Paradiso"]
@@ -9,6 +9,8 @@ tags = ["2023", "Caterina Caselli", "Paradiso"]
 {{< youtube id="WwLmI8kvCkY" title="Cento Giorni by Caterina Caselli" allowfullscreen="true" >}}
 
 ***
+
+## Lyrics
 
 | | |
 |------------|-----------|
