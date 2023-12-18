@@ -100,13 +100,14 @@ draft = false
 - Macchiato *Ma-key-atto*
 - Margherita *Mar-gay-rita*
 
-## GL *y sound*
+## GL *lya sound*
 
-- Tagliatelle *Tah-ya-TELL-ay*
-- Bottiglia *Boh-tee-ya*
-- Vaniglia *Vah-nee-ya*
-- Tovagliolo *Toh-va-yoh-lo*
-- Aglio *Ah-yoh*
+- *This sound is called a "palatal lateral approximant" and is similar to the "lli" sound in the word "million."*
+- Tagliatelle *Tah-lya-tell-ay*
+- Bottiglia *Boh-tee-lya*
+- Vaniglia *Vah-nee-lya*
+- Tovagliolo *Toh-va-lyoh-lo*
+- Aglio *Ah-lyoh*
 
 ## GN *ɲ sound*
 
@@ -129,13 +130,13 @@ draft = false
 - Cena *Chay-na*
 - Macedonia *Mah-chay-donia*
 
-## G *j sound*
+## G *j sound like jam*
 
 - Gelato *jeh-la-toe*
 - Genova *jeh-no-vah*
 - Gerardo *jer-ar-doe*
 
-## GH *hard g sound*
+## GH *hard g sound like gate*
 
 - Ghetto *geh-toe*
 - Ghepardo *geh-par-doe*
