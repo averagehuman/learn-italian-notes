@@ -2,7 +2,7 @@ baseURL = 'https://cominciaredallinizio.com'
 languageCode = 'en-gb'
 title = 'Learning Italian'
 theme = 'yinyang'
-paginate = 30
+paginate = 50
 
 [taxonomies]
 tag = 'tags'
