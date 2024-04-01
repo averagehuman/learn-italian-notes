@@ -49,6 +49,16 @@ tags = ["A1", "Giada", "2024"]
 - no, non mi piace
 - no, non mi piace per niente *I don't like it at all*
 
+### singolare/plurale
+
+- mi piace il riso
+- mi piace la birra
+- mi piace la maionese
+- mi piacciono le ciliegie
+- mi piacciono le patate fritte
+- mi piacciono i pomodori
+- mi piacciono i fagioli
+
 ### Like/dislike
 
 - verb + infinitive
