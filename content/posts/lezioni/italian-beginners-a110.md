@@ -72,7 +72,7 @@ tags = ["A1", "Giada", "2024"]
 ## Ripasso professioni
 
 - l'avvocato (m.), l'avvocato (f.)
-- il gioralista, la giornalista
+- il giornalista, la giornalista
 - il farmacista, la farmacista
 - il commesso, la commessa
 - l'infermiere, l'infermiera
