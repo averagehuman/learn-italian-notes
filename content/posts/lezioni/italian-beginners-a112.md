@@ -89,6 +89,7 @@ Che cosa fai nel tempo libero?
 
 - faccio yoga
 - faccio pilates
+- fare sport
 - fare canotaggio *rowing, boat racing*
 - fare escursioni
 - fare passeggiate *go for a walk*
