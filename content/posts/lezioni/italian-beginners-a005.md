@@ -14,8 +14,8 @@ tags = ["A0", "Giada", "2023"]
 - Benissimo, grazie.
 - Bene.
 - Va bene.
-- Come va. *How's it going?*
-- Come vai. *How are you doing?*
+- Come va? *How's it going?*
+- Come vai? *How are you doing?*
 - Pronti per cominciare?
 
 ## Giorni della settimana

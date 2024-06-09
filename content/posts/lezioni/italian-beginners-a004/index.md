@@ -32,8 +32,9 @@ tags = ["A0", "Giada", "2023"]
 ## Bentornati
 
 - Oggi è Mercoledì, quattro ottobre duemilaventitré.
-- Como state? *How are you (all)? (or formal you in particular)*
-- Como stai? *How are you (in particular)?*
+- Come state? *How are you (all)?*
+- Come stai? *How are you (in particular)?*
+- *(Come sta/stanno? formal)*
 - Bene, grazie. E tu?
 - Così così. *So-so.*
 - Non c'è male. *Not bad.*
