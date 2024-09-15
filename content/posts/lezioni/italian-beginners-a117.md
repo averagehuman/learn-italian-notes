@@ -33,7 +33,7 @@ tags = ["A1", "Giada", "2024"]
 
 ### Relazioni familiari
 
-- genetori *parents*
+- genitori *parents*
 - parenti *relatives*
 - padre / madre
 - papà / mamma

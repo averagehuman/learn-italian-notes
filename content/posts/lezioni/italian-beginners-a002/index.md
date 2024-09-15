@@ -81,7 +81,7 @@ draft = false
 
 ## Prononcia
 
-- Cappucciono *Ka-pu-chee-no*
+- Cappuccino *Ka-pu-chee-no*
 - Prosciutto *Pro-shoe-toe*
 - Bruschetta *Bru-skay-ta*
 - Chianti *Key-anti*
